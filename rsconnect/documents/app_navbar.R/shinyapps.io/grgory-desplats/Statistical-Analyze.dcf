@@ -1,0 +1,13 @@
+name: Statistical-Analyze
+title: Statistical-Analyze
+username:
+account: grgory-desplats
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 4113098
+bundleId: 4692546
+url: https://grgory-desplats.shinyapps.io/Statistical-Analyze/
+when: 1623163963.31199
+lastSyncTime: 1623163963.31199
+asMultiple: FALSE
+asStatic: FALSE
